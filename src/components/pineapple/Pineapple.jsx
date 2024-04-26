@@ -25,7 +25,7 @@ function Pineapple() {
                     {/* //content image */} 
                     <img className=' h-full' src={content} />
                     {/* //model image */} 
-                    <img className='w-[32vw] sm:w-[20vw] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2' src={model} />
+                    <img className='w-[32vw] sm:w-[16vw] absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2' src={model} />
 
                     <div className='desp  absolute top-0 left-1/2 -translate-x-1/2 text-center font-medium pt-[4vw] pb-[6vw] sm:pt-[2.2vw] sm:pb-[3.2vw] h-full sm:w-[16vw] flex flex-col justify-between '>
                         <div className='space-y-4 sm:space-y-6'>
