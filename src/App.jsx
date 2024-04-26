@@ -5,6 +5,7 @@ import Orange from './components/orange/Orange'
 import Pineapple from './components/pineapple/Pineapple'
 import { useEffect } from 'react';
 import gsap from 'gsap';
+import Cursor from './components/cursor/Index';
 
 function App() {
 
@@ -58,11 +59,12 @@ function App() {
 
   return (
     <main className='w-full h-screen overflow-hidden relative'>
+      <Cursor/>
       <Navbar/>
       <Orange/>
       <Pineapple/>
       <div className='btn absolute bottom-[16vw] left-[36vw] sm:bottom-[2.3vw] sm:left-1/2 sm:-translate-x-1/2 cursor-pointer'>
-        <button className='sm:text-[1.2vw] text-[4vw] px-[3vw] py-[2vw] sm:px-[1vw] sm:py-[.4vw] border-[1px] border-[black] text-[black] rounded-full whitespace-nowrap '>Click to Slide</button>
+        <button className='sm:text-[1.2vw] text-[4vw] px-[3vw] py-[2vw] sm:px-[1vw] sm:py-[.4vw] border-[1px] border-[black] bg-white text-[black] rounded-full whitespace-nowrap '>Click to Slide</button>
       </div>
     </main>
   )
