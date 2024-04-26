@@ -59,7 +59,7 @@ function App() {
 
   return (
     <main className='w-full h-screen overflow-hidden relative'>
-      <Cursor/>
+      {/* <Cursor/> */}
       <Navbar/>
       <Orange/>
       <Pineapple/>
