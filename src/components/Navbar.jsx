@@ -14,7 +14,7 @@ function Navbar() {
           <img className="w-[8vw] sm:w-[1.8vw]" src="/images/icons/search.svg"/>     
         </div>
       </div>
-      {/* <div className='btn absolute bottom-[16vw] left-[36vw] sm:bottom-[1vw] sm:left-1/2 sm:-translate-x-1/2 
+      {/* <div className='btn absolute bottom-[16vw] left-[36vw] sm:bottom-[1vw] sm:left-1/2 sm:-translate
         
       </div> */}
 
