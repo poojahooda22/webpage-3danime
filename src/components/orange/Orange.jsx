@@ -45,7 +45,6 @@ function Orange() {
     //     tl.from('.pineapple .clippyMask > div', {
     //         x: w*2
     //     }, '>')
-
     //     let count = 1;
     //     toggleBtn.addEventListener('click', () => {
     //         if (count) {
