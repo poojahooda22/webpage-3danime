@@ -15,7 +15,7 @@ function Navbar() {
         </div>
       </div>
       {/* <div className='btn absolute bottom-[16vw] left-[36vw] sm:bottom-[1vw] sm:left-1/2 sm:-translate-x-1/2 cursor-pointer'>
-        <button className='
+        <button 
       </div> */}
 
     </div>
