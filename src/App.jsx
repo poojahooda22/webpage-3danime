@@ -16,7 +16,6 @@ function App() {
 
     const toggleBtn = document.querySelector('.btn');
     
-
     tl.to('.orange > h1', {
         xPercent: 100,
     }, 'a')
