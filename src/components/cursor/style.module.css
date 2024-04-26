@@ -1,0 +1,10 @@
+.circle {
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    background-color: #111;
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* mix-blend-mode: difference; */
+}
