@@ -65,7 +65,8 @@ function App() {
           className='sm:text-[1.2vw] text-[4vw] px-[3vw] py-[2vw] sm:px-[1.3vw] sm:py-[.6vw]  
           bg-white text-[black] rounded-full 
           whitespace-nowrap '
-        >Click to Slide</button>
+        >
+          Click to Slide</button>
       </div>
     </main>
   )
