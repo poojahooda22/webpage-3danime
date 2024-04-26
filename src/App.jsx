@@ -5,7 +5,7 @@ import Orange from './components/orange/Orange'
 import Pineapple from './components/pineapple/Pineapple'
 import { useEffect } from 'react';
 import gsap from 'gsap';
-import Cursor from './components/cursor/Index';
+// import Cursor from './components/cursor/Index';
 
 function App() {
 
