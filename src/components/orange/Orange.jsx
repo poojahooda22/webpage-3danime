@@ -43,7 +43,7 @@ function Orange() {
     //         x: '4vw',
     //     }, '>')
     //     tl.from('.pineapple .clippyMask > div', {
-    //         x: w*2,
+    //         x: w*2
     //     }, '>')
 
     //     let count = 1;
