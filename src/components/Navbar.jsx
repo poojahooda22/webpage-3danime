@@ -15,7 +15,7 @@ function Navbar() {
         </div>
       </div>
       {/* <div className='btn absolute bottom-[16vw] left-[36vw] sm:bottom-[1vw] sm:left-1/2 sm:-translate-x-1/2 cursor-pointer'>
-        <button className='sm:text-[1.2vw] text-[4vw] px-[3vw] py-[2vw] sm:px-[1vw] sm:py-[.4vw] border-[1px] border-[black] text-[black] rounded-full whitespace-
+        <button className='sm:text-[1.2vw] text-[4vw] px-[3vw] py-[2vw] sm:px-[1vw] sm:py-[.4vw] border-[1px] border-[black] text-[black] rounded-full 
       </div> */}
 
     </div>
