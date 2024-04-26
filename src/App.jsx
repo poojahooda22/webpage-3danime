@@ -66,7 +66,8 @@ function App() {
           bg-white text-[black] rounded-full 
           whitespace-nowrap '
         >
-          Click to Slide</button>
+          Click to Slide
+        </button>
       </div>
     </main>
   )
