@@ -2,9 +2,10 @@
     height: 8px;
     width: 8px;
     border-radius: 50%;
-    background-color: #111;
+    background-color: #c5c5c5;
     position: absolute;
     top: 0;
     left: 0;
+    cursor: pointer;
     /* mix-blend-mode: difference; */
 }
