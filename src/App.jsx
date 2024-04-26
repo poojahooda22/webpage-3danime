@@ -54,7 +54,7 @@ function App() {
     toggleBtn.addEventListener('click', () => {
       count ? (tl.play(), count--) : (tl.reverse(), count++);
     }) 
-  }, [])
+  })
  
 
   return (
