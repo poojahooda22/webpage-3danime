@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Clash';
+    src: url('/fonts/ClashDisplay-Medium.ttf');
+}
+
+*{
+    font-family: 'Clash';
+}
